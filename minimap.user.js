@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Vascopixel Minimap
+// @name         map
 // @namespace    http://tampermonkey.net/
 // @version      1.2.4
 // @description  VP Minimap Zone
-// @author       ConsoleBey#9737
+// @author       Vaprolord
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/Vaprolord/doctorwho3
