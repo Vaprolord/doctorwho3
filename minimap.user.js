@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         map
 // @namespace    http://tampermonkey.net/
-// @version      1.2.4
+// @version      1
 // @description  VP Minimap Zone
 // @author       Vaprolord
 // @match        https://pixelzone.io/*
