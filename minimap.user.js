@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         map
+// @name         Vascopixel Minimap2
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      1.2.4
 // @description  VP Minimap Zone
-// @author       Vaprolord
+// @author       ConsoleBey#9737
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Vaprolord/doctorwho3
-// @updateURL    https://raw.github.com/Vaprolord/doctorwho3/new/master/minimap.user.js
-// @downloadURL  https://raw.github.com/Vaprolord/doctorwho3/new/master/minimap.user.js
+// @homepage     https://github.com/Vasco-Pixel/mz
+// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Vaprolord/doctorwho3/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
